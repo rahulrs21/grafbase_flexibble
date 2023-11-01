@@ -36,3 +36,7 @@ export default Home
 
 // Then come to terminal, and install 'npx grafbase init --config-format typescript' from https://www.npmjs.com/package/@grafbase/sdk
 //  This will create new folder of 'grafbase' so open grafbase.config.ts and clear it write the code 39:00
+// After writing code, just create new repository and push it 44:00
+//  https://grafbase.com/new  - here u can search the repository 'grafbase_flexibble' and import and deploy
+//  This will generate URL and API key(API can find in setting), copy both and paste in .env file(u need to create now)
+// After this, Goto 'Pathfinder'
